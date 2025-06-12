@@ -1,4 +1,13 @@
     *{
-        background-color: black;
-        font-family: ;
+    margin: 0 px;
+    font-family:"manopeque";
+
     }
+    #titulosuperior{
+        margin-left: 50px;
+        padding-top: 150px;
+        font-size: 75px;
+        letter-spacing: -1.5px;
+    }
+        
+    
