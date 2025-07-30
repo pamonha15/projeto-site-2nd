@@ -18,5 +18,21 @@ padding-bottom: 150px;
 font-size: 25px;
 letter-spacing: 0px;
 }
-        
-    
+  #menusuperior{background-color: rgb(243, 237, 237)
+     color(srgb rgb(21, 20, 20) green blue);
+}
+#menuinformativo{background-color: black;
+    display: grid;
+    grid-auto-flow: coluna;
+    column-span: auto;
+}
+.textoinformativo{display: grid;
+        align-items: center;
+        font-size: 40 px;
+        font-weight: bolder;
+        padding: 75 px;
+        margin-left: 20 px;
+}    
+.spaminformativo{ font-size: 20px;
+    font-weight: normal;
+}
