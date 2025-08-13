@@ -1,4 +1,4 @@
-Conversa aberta. 1 mensagem não lida.
+hgConversa aberta. 1 mensagem não lida.
 
 Pular para o conteúdo
 Como usar o E-mail de SEED com leitores de tela
@@ -102,5 +102,11 @@ button{
     font-size: 30px;
     cursor:pointer;
 }
-
+button.holver;{
+    background-color:#f88e0c;
+    color:whait;
+    transform:transleteW(-3px);
+    box-shadow:0px 10px 15px #f1bd73;
+    transition-duration:0.3s;
+}
     
